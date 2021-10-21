@@ -126,8 +126,9 @@ def ParameterSolve(Phi,XZeta,XEta,YZeta,YEta,V):
 #主程序
 start = datetime.datetime.now()
 X,Y,m,n = BoundrayCondition(15,4)
-plt.plot(X, Y)
-plt.show()  
+
+
+
 X0,Y0,Alphf,Beta,gamma,XZeta,XEta,YZeta,YEta= iteration(X,Y,m,n)
 end1 = datetime.datetime.now()
 print(end1-start)
