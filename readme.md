@@ -4,7 +4,7 @@
 
 
 
-![NACA0024](C:\Users\HiWin10\Desktop\LAB\Development Library\cfd\fluid learning\NACA0024.png)
+![NACA0024](https://github.com/weipeng-jiao/fluid-learning/blob/master/NACA0024.png)
 
 
 
@@ -14,7 +14,7 @@
 
 ## 翼型NACA0024
 
-![image-20211021181408158](C:\Users\HiWin10\AppData\Roaming\Typora\typora-user-images\image-20211021181408158.png)
+![](https://github.com/weipeng-jiao/fluid-learning/blob/master/NACA00.png)
 
 ## 版本
 
@@ -32,4 +32,4 @@
 
 
 
-  ![cp](C:\Users\HiWin10\Desktop\LAB\Development Library\cfd\fluid learning\cp.png)
+  ![cp](https://github.com/weipeng-jiao/fluid-learning/blob/master/cp.png)
